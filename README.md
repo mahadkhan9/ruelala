@@ -9,8 +9,8 @@ To solve this business problem, I had to calculate the true demand for older ite
 This was used to predict the optimal pricing for the products to maximize revenue using decision trees and regression analysis.
 
 In conclusion, the optimal values found were 
-$30 for item 1 
-$35 for item 2 
-$30 for item 3
+1. $30 for item 1 
+2. $30 for item 2 
+3. $35 for item 3
 
 This brought the total revenue to $522604, which was the maximum.
